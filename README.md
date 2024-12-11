@@ -1,3 +1,3 @@
-# Algorithm Practice
+# C++
 
-Code used to practice algorithms. Usually in C++.
+C++ codes.
